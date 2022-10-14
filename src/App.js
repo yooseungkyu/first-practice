@@ -29,6 +29,7 @@ function 제목바꾸기(){
     <p>2월 20일 발행</p>
     <hr/>
       </div> 
+      
     <Modal></Modal>  
    
     </div>
